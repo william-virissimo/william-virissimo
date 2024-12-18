@@ -1,7 +1,7 @@
 ### Olá, Me chamo William 
 [![(linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-virissimo/)
 
--Tenho 21 anos e tecnologia é minha paixão
+- Sou um programador entusiasmado com uma forte paixão por tecnologia e inovação. Minha jornada é guiada por uma curiosidade infinita e um desejo de explorar novas fronteiras na programação. Eu prospero na resolução de problemas intrincados e busco constantemente oportunidades para me desafiar e elevar minhas habilidades a novos patamares. Meus interesses incluem:
 - 📍 Brasília/DF, Brasil
 - 🚀 Estou estudando Desenvolvimento de Software Back-end
 
